@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.26",
+	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -16,7 +16,8 @@
 	"Plugins": [
 		{
 			"Name": "VarDump",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1e9d283c988a42409d66a6071b9d1e69"
 		}
 	]
 }

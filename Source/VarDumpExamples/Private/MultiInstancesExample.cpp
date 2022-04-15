@@ -1,4 +1,4 @@
-// Copyright 2021, João P. B. Socas. All Rights Reserved.
+// Copyright 2021, Joï¿½o P. B. Socas. All Rights Reserved.
 
 #include "MultiInstancesExample.h"
 #include "DrawDebugHelpers.h"
