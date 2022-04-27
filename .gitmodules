@@ -1,0 +1,3 @@
+[submodule "VarDump"]
+	path = Plugins/VarDump
+	url = https://github.com/Joao-Socas/VarDump
